@@ -15,7 +15,7 @@ ______________________________________________
 ______________________________________________
 **Some Social Media**
 
-- Find Me In Discord.**[Join the Server](https://discord.gg/vmg2b6qjp4)**
+- Find Me In Discord.**[Join the Server](https://discord.gg/csV7CsNsmt)**
 - Find Me Instagram.**[Comming Soon]**
 - Find Me  In facebook.**[Comming Soon]**
 ___________________________________________________
