@@ -1,4 +1,4 @@
-**Introducing Myself** *[@SharadS28N](https://github.com/SharadS28N)]
+**Introducing Myself** *[@SharadS28N](https://github.com/SharadS28N)]*
 
 - Mine Self Sharad Bhandari. 
 - A 14 years Old Fellow Who dosen't know how to code but tries to learn.
