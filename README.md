@@ -19,3 +19,5 @@ ______________________________________________
 - Find Me Instagram.**[Comming Soon]**
 - Find Me  In facebook.**[Comming Soon]**
 ___________________________________________________
+*See mine discord bots and you might like to use it one link is here while you can get other bots by joining mine server. I am not to much reach so I couldn't do much website hosting [Use Mine Bot](https://video-mania.herokuapp.com/)*
+- **Note:-** *The Discord Bot Website Can't take you to the Support Server*
