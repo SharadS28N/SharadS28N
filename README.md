@@ -13,9 +13,9 @@ ______________________________________________
 - Love The Culture Of Nepal,India & Japan
 - Dont watch anime But Like Some OF them. (Demon Slayer, Attack On Titan,etc)
 ______________________________________________
-**Some Social Media**
+**#Some Social Media**
 
--Find Me In Discord.**[Join the Server](https://discord.gg/vmg2b6qjp4)**
--Find Me Instagram.**[Comming Soon]**
--Find Me  In facebook.**[Comming Soon]**
+- Find Me In Discord.**[Join the Server](https://discord.gg/vmg2b6qjp4)**
+- Find Me Instagram.**[Comming Soon]**
+- Find Me  In facebook.**[Comming Soon]**
 ___________________________________________________
