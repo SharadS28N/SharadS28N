@@ -14,8 +14,10 @@ ______________________________________________
 * Dont watch anime But Like Some OF them. (Demon Slayer, Attack On Titan,etc)
 ______________________________________________
 # Follow Me On Social Media To
-<p align="left">
-<a href="instagram.com/fumetsu_kemono/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fumetsu_kemono" height="30" width="40" /></a>
+<p align="left"
+<a href="https://instagram.com/fumetsu_kemono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_real_mystiq" height="30" width="40" /></a>
 <a href="Comming Soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Soon" height="30" width="40" /></a>
 </p>
-![Github stats](https://github-readme-stats.vercel.app/api?username=SharadS28N)
+
+______________________________________________
+
