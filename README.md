@@ -12,7 +12,7 @@ const user = require(./var)
 # Introducing Myself *[@SharadS28N](https://github.com/SharadS28N)*
 
 * Mine Self Sharad Bhandari. 
-* A 14 years Old Fellow Who dosen't know how to code but tries to learn.
+* A 15 years Old Fellow Who dosen't know how to code but tries to learn.
 * Favourite Language javascript and Like website designing and discord bot making.
 * One Friend Who is like me but he likes game developing
 ______________________________________________
