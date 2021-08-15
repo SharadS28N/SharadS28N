@@ -22,4 +22,4 @@ ______________________________________________
 </p>
 
 ______________________________________________
-
+[![Sharad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharadS28N)]
