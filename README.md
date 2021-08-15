@@ -1,3 +1,14 @@
+```js
+const user = require(./var)
+{
+   var = [data loading.......]
+  Description: "About Sharad",
+  FavouriteLanguage: "Javascript/HTMl/CSS",
+  Hobby/Aim:"Coding"
+  Rest Deatils: "Given Below"
+}
+```
+
 # Introducing Myself *[@SharadS28N](https://github.com/SharadS28N)*
 
 * Mine Self Sharad Bhandari. 
