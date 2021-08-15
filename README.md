@@ -22,8 +22,8 @@ ______________________________________________
 </p>
 
 ______________________________________________
-[![Sharad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharadS28N&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharadS28N&theme=tokyonight&hide=batchfile&layout=compact)
+![Sharad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharadS28N&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharadS28N&theme=tokyonight&hide=batchfile&layout=compact)
 
 ______________________________________________
 [![Discord Status](https://discord.c99.nl/widget/theme-2/512598753627078666.png)
