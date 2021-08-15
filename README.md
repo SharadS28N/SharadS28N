@@ -23,4 +23,4 @@ ______________________________________________
 
 ______________________________________________
 [![Sharad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharadS28N&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharadS28N&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMystiq&theme=tokyonight&hide=batchfile&layout=compact)
