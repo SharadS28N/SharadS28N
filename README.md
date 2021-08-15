@@ -5,7 +5,7 @@ const user = require(./var)
   Description: "About Sharad",
   FavouriteLanguage: "Javascript/HTMl/CSS",
   Hobby/Aim:"Coding"
-  Rest Deatils: "Given Below"
+  Deatils: "Given Below"
 }
 ```
 
