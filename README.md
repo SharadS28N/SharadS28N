@@ -26,5 +26,5 @@ ______________________________________________
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharadS28N&theme=tokyonight&hide=batchfile&layout=compact)
 
 ______________________________________________
-[![Discord Status](https://discord.c99.nl/widget/theme-2/512598753627078666.png)
+![Discord Status](https://discord.c99.nl/widget/theme-2/512598753627078666.png)
 
