@@ -1,7 +1,7 @@
 ```js
-const user = require(./var)
+const user = require(./config)
 {
-   var = [data loading.......]
+  config = [Data Loading.......]
   Description: "About Sharad",
   FavouriteLanguage: "Javascript/HTMl/CSS",
   Hobby/Aim:"Coding"
