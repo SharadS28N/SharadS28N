@@ -42,6 +42,7 @@ _______________________________________________
 **Platform/Framework**
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fdb80488-b282-449b-a5a1-9cc8ec6936a2/deploy-status)](https://app.netlify.com/sites/zbuddy/deploys)
 
 **Designs**
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
