@@ -66,8 +66,6 @@ ______________________________________________
 ![Sharad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharadS28N&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharadS28N&theme=tokyonight&hide=batchfile&layout=compact)
 
-   **Current Project Status**
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fdb80488-b282-449b-a5a1-9cc8ec6936a2/deploy-status)](https://app.netlify.com/sites/zbuddy/deploys)
 ______________________________________________
 <img align="left" src="https://discord.c99.nl/widget/theme-2/512598753627078666.png">
 
