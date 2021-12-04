@@ -1,3 +1,4 @@
+## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/SharadS28N?v=4" width="200" />
 ```js
 const user = require(./config)
 {
