@@ -22,8 +22,6 @@ ______________________________________________
 * Have Mine github where you can follow me. [Github Page](https://github.com/SharadS28N)
 * Have A small family.
 * From One of the poor Country Nepal
-* Love The Culture Of Nepal,India & Japan
-* Dont watch anime But Like Some OF them. (Demon Slayer, Attack On Titan,etc)
 ______________________________________________
 # Follow Me On Social Media To
 <h3 align="left">Social Medias:</h3>
