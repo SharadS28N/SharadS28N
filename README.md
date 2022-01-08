@@ -16,7 +16,7 @@ console.log(user)
 * Mine Self Sharad Bhandari. 
 * A 15 years Old Fellow Who dosen't know how to code but tries to learn.
 * Favourite Language javascript and Like website designing and discord bot making.
-* One Friend Who is like me but he likes game developing
+
 ______________________________________________
 # Some Of Mine Major Facts
 
