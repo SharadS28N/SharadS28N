@@ -1,13 +1,14 @@
 ## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/SharadS28N?v=4" width="215" />
 ```js
-const user = require(./config)
-{
-  config = [Data Loading.......]
+const user = require(config)
+  config = {
   Description: "About Sharad",
   FavouriteLanguage: "Javascript/HTMl/CSS",
-  Hobby/Aim:"Coding"
-  Deatils: "Given Below"
-}
+  Hobby/Aim:"Coding",
+  Deatils: "Given Below",
+  }
+
+console.log(user)
 ```
 
 # Introducing Myself *[@SharadS28N](https://github.com/SharadS28N)*
