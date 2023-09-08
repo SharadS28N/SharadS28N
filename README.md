@@ -28,7 +28,7 @@ ______________________________________________
 <h3 align="left">Social Medias:</h3>
 <p align="left">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/fumetsu_im/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_real_mystiq" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sharad.b__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_real_mystiq" height="30" width="40" /></a>
 <a href="commingsoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="commingsoon" height="30" width="40" /></a>
 </p>
 
