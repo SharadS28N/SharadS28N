@@ -14,7 +14,7 @@ console.log(user)
 # Introducing Myself *[@SharadS28N](https://github.com/SharadS28N)*
 
 * Mine Self Sharad Bhandari. 
-* A 16 years Old Fellow Who dosen't know how to code but tries to learn.
+* A 17 years Old Fellow Who dosen't know how to code but tries to learn.
 * Favourite Language javascript and Like website designing and discord bot making.
 
 ______________________________________________
@@ -22,7 +22,7 @@ ______________________________________________
 
 * Have Mine github where you can follow me. [Github Page](https://github.com/SharadS28N)
 * Have A small family.
-* From One of the poor Country Nepal
+* From One of the beautiful Country Nepal
 ______________________________________________
 # Follow Me On Social Media To
 <h3 align="left">Social Medias:</h3>
