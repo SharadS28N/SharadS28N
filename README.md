@@ -14,7 +14,7 @@ console.log(user);
 # Introducing Myself *[@SharadS28N](https://github.com/SharadS28N)*
 
 * Myself **Sharad Bhandari**.
-* A **{{AGE}}** years Old Fellow Who doesn't know how to code but tries to learn. 
+* A **18** years Old Fellow Who doesn't know how to code but tries to learn. 
 * Favourite Language Javascript and like Web Development and AI.
 
 ______________________________________________
