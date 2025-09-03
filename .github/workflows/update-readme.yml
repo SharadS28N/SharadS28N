@@ -1,9 +1,9 @@
-name: 🕒 Update Age in README
+name: 🔁 Update Age in README
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight UTC
-  workflow_dispatch: # Manual trigger
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allow manual runs
 
 jobs:
   update-readme:
@@ -17,14 +17,13 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Run age update script
-        run: |
-          node scripts/update-readme.js
+      - name: Run update script
+        run: node scripts/update-readme.js
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "🤖 Update age in README"
+          git diff --quiet || git commit -m "🤖 Auto-update age in README"
           git push
