@@ -9,14 +9,11 @@ if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
   age--;
 }
 
-// Load README
 const readmePath = "README.md";
 let content = fs.readFileSync(readmePath, "utf8");
 
-// Replace **{{AGE}}** globally
 const updatedContent = content.replace(/\*\*\{\{AGE\}\}\*\*/g, `**${age}**`);
 
-// Only write if changed
 if (content !== updatedContent) {
   fs.writeFileSync(readmePath, updatedContent);
   console.log(`✅ Updated age in README to ${age}`);
