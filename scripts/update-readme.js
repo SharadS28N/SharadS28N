@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const birthDate = new Date("2006-11-03");
+const birthDate = new Date("2006-11-03"); // Change this to your real birthdate
 const today = new Date();
 
 let age = today.getFullYear() - birthDate.getFullYear();
