@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const birthDate = new Date("2006-05-15"); // <-- Your actual birthdate here!
+const birthDate = new Date("2006-11-03");
 const today = new Date();
 
 let age = today.getFullYear() - birthDate.getFullYear();
@@ -9,18 +9,17 @@ if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
   age--;
 }
 
+// Load README
 const readmePath = "README.md";
 let content = fs.readFileSync(readmePath, "utf8");
 
-// Look for the exact placeholder and replace it
-const newContent = content.replace(
-  /A \*\*\{\{AGE\}\}\*\* years Old Fellow/,
-  `A **${age}** years Old Fellow`
-);
+// Replace **{{AGE}}** globally
+const updatedContent = content.replace(/\*\*\{\{AGE\}\}\*\*/g, `**${age}**`);
 
-if (content !== newContent) {
-  fs.writeFileSync(readmePath, newContent);
-  console.log("✅ Age updated in README:", age);
+// Only write if changed
+if (content !== updatedContent) {
+  fs.writeFileSync(readmePath, updatedContent);
+  console.log(`✅ Updated age in README to ${age}`);
 } else {
-  console.log("ℹ️ Age is already up to date or placeholder not found.");
+  console.log("ℹ️ Age is already up to date or no placeholder found.");
 }
