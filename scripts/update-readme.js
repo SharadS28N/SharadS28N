@@ -14,7 +14,7 @@ let content = fs.readFileSync(readmePath, "utf8");
 
 console.log("Original README snippet:", content.slice(0, 100));  // show first 100 chars
 
-const updatedContent = content.replace(/\*\*\{\{AGE\}\}\*\*/g, `**${age}**`);
+const updatedContent = content.replace(/{{AGE}}/g, age);
 
 if (content !== updatedContent) {
   fs.writeFileSync(readmePath, updatedContent);
