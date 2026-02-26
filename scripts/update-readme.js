@@ -12,14 +12,14 @@ if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
 const readmePath = "README.md";
 let content = fs.readFileSync(readmePath, "utf8");
 
-console.log("Original README snippet:", content.slice(0, 100));  // show first 100 chars
-
-const updatedContent = content.replace(/{{AGE}}/g, age);
+const updatedContent = content.replace(
+  /\*\*\d+\*\*\s+years Old Fellow/,
+  `**${age}** years Old Fellow`
+);
 
 if (content !== updatedContent) {
   fs.writeFileSync(readmePath, updatedContent);
   console.log(`✅ Updated age in README to ${age}`);
 } else {
-  console.log("ℹ️ Age is already up to date or no placeholder found.");
+  console.log("ℹ️ Age already correct.");
 }
-
