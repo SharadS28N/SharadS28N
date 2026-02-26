@@ -12,15 +12,15 @@ if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
 const readmePath = "README.md";
 let content = fs.readFileSync(readmePath, "utf8");
 
-// Replace any bold number followed by "years Old"
-const updatedContent = content.replace(
-  /\*\*\d+\*\*\s+years\s+Old/gi,
-  `**${age}** years Old`
-);
+// Debug log
+console.log("Calculated age:", age);
+
+// Replace ANY bold number between 10-99
+const updatedContent = content.replace(/\*\*\d{1,2}\*\*/g, `**${age}**`);
 
 if (content !== updatedContent) {
   fs.writeFileSync(readmePath, updatedContent);
   console.log(`✅ Updated age in README to ${age}`);
 } else {
-  console.log("ℹ️ Age already correct or pattern not found.");
+  console.log("⚠️ No changes made. Pattern not found.");
 }
