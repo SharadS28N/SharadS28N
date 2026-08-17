@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/SharadS28N?v=4" width="140" alt="Sharad Bhandari" />
+  <img src="https://avatars.githubusercontent.com/SharadS28N?v=4" width="150" alt="Sharad Bhandari" />
 </p>
 
 <h1 align="center">Sharad Bhandari</h1>
@@ -24,15 +24,15 @@
 
 ## <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/user-round.svg" width="20" height="20" alt="" /> About Me
 
-I'm **Sharad Bhandari**, a self-taught developer from **Nepal** who is focused on learning, experimenting, and building with technology.
+I'm **Sharad Bhandari** (`@SharadS28N`), a developer from **Nepal**.
 
-I'm currently developing my skills in **JavaScript, HTML, CSS, Web Development, and Artificial Intelligence**. My approach is simple: learn continuously, build practical projects, understand my mistakes, and improve with every project.
+I'm **<!-- AGE -->19<!-- /AGE --> years old** and currently focused on learning, building, and improving my skills in **Web Development** and **Artificial Intelligence**.
 
 ```js
 const sharad = {
   username: "SharadS28N",
+  name: "Sharad Bhandari",
   location: "Nepal",
-  age: "<!-- AGE -->19<!-- /AGE -->",
   primaryLanguages: ["JavaScript", "HTML", "CSS"],
   interests: [
     "Web Development",
@@ -48,9 +48,9 @@ console.log(sharad);
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/code-2.svg" width="20" height="20" alt="" /> What I Work With
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/code-2.svg" width="20" height="20" alt="" /> Skills & Technologies
 
-### Programming
+### Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
@@ -68,7 +68,7 @@ console.log(sharad);
 ### Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/CodeSandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox" />
 </p>
 
@@ -83,7 +83,7 @@ console.log(sharad);
 ### Cloud & Hosting
 
 <p>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
 </p>
@@ -92,7 +92,7 @@ console.log(sharad);
 
 <p>
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
 </p>
 
 ---
@@ -101,12 +101,24 @@ console.log(sharad);
 
 I'm currently focused on:
 
-* Building stronger foundations in JavaScript.
+* Strengthening my JavaScript fundamentals.
 * Improving my HTML and CSS skills.
-* Learning modern Web Development practices.
+* Building practical Web Development projects.
 * Exploring Artificial Intelligence.
-* Building practical projects instead of only following tutorials.
-* Understanding how software works behind the interface.
+* Learning through hands-on development.
+* Understanding how applications work beyond the user interface.
+
+---
+
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/folder-git-2.svg" width="20" height="20" alt="" /> Projects
+
+My repositories contain projects, experiments, and work from my ongoing learning journey.
+
+<p align="center">
+  <a href="https://github.com/SharadS28N?tab=repositories">
+    <img src="https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+  </a>
+</p>
 
 ---
 
@@ -115,14 +127,14 @@ I'm currently focused on:
 <p align="center">
   <a href="https://github.com/SharadS28N">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=SharadS28N&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=false&count_private=false&cache_seconds=86400"
+      src="https://github-readme-stats.vercel.app/api?username=SharadS28N&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400"
       height="180"
       alt="Sharad's GitHub statistics"
     />
   </a>
   <a href="https://github.com/SharadS28N">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharadS28N&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&count_private=false&cache_seconds=86400"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharadS28N&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&cache_seconds=86400"
       height="180"
       alt="Sharad's most used languages"
     />
@@ -132,7 +144,7 @@ I'm currently focused on:
 <p align="center">
   <a href="https://github.com/SharadS28N">
     <img
-      src="https://streak-stats.demolab.com?user=SharadS28N&theme=tokyonight&hide_border=true"
+      src="https://streak-stats.demolab.com?user=SharadS28N&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
       alt="Sharad's GitHub contribution streak"
     />
   </a>
@@ -140,33 +152,33 @@ I'm currently focused on:
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/folder-git-2.svg" width="20" height="20" alt="" /> Projects
-
-I use my repositories to document my learning journey and experiment with different technologies.
-
-You can find my projects and experiments here:
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/activity.svg" width="20" height="20" alt="" /> Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/SharadS28N?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+  <a href="https://github.com/SharadS28N">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=SharadS28N&theme=tokyo-night&hide_border=true&area=true&custom_title=Sharad's%20Contribution%20Activity"
+      alt="Sharad's GitHub contribution activity"
+      width="95%"
+    />
   </a>
 </p>
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/compass.svg" width="20" height="20" alt="" /> Development Philosophy
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/compass.svg" width="20" height="20" alt="" /> Development Approach
 
 ```text
-Learn → Build → Break → Understand → Improve → Repeat
+Learn → Build → Test → Understand → Improve → Repeat
 ```
 
-I don't expect to know everything from the beginning.
+I'm still growing as a developer, and I believe consistent practice is more important than trying to know everything at once.
 
-The goal is to keep learning, turn knowledge into projects, and become a better developer through consistent practice.
+Every project is an opportunity to learn something new, solve a problem, and improve my understanding of technology.
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/globe-2.svg" width="20" height="20" alt="" /> Find Me Online
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/globe-2.svg" width="20" height="20" alt="" /> Connect With Me
 
 <p align="center">
   <a href="https://github.com/SharadS28N">
